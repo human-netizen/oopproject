@@ -17,7 +17,7 @@ To get started with this application, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/social-media-application.git
+git clone https://github.com/human-netizen/oopproject.git
 
 2. Compile the source code:
 
